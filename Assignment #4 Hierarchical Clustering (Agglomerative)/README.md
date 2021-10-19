@@ -1,4 +1,4 @@
-Given data points provided, develop Hierarchical Clustering(Agglomerative) using Single Link technique?
+Given data points provided, develop Hierarchical Clustering(Agglomerative) using Single Link technique
 
 Learning Objective: Apply Single Link Hierarchical Clustering(Agglomerative) :
 
